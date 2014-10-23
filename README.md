@@ -1,4 +1,4 @@
 learndocker
 ===========
 
-learn docker 
+please goto wiki!
